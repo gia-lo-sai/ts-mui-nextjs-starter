@@ -1,0 +1,40 @@
+{
+    "model": "Card",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "JCHNUSA-ORG",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Apk "
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "First Card Title",
+                "text": "welcome to \" JCHNUSA-ORG\"\n",
+                "image": {
+                    "$$type": "Image",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/1000019045.png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "First item image"
+                },
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Read the Docs",
+                        "url": "https://docs.netlify.com/visual-editor/overview/",
+                        "size": null,
+                        "variant": null,
+                        "color": null
+                    }
+                ]
+            },
+            "thumbnail": "images/card-jchnusa-org-6469.png"
+        }
+    ]
+}
