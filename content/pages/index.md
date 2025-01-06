@@ -36,9 +36,8 @@ sections:
           type: Image
           url: /images/1000019045.png
           altText: First item image
-        text: |+
-          ![](/images/1000019045.png)
-
+        text: |
+          welcome to " JCHNUSA-ORG"
         actions:
           - type: Button
             label: Read the Docs
