@@ -49,18 +49,6 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: First Card Title
-        image:
-          type: Image
-          url: /images/1000019045.png
-          altText: First item image
-        text: |
-          welcome to " JCHNUSA-ORG"
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
-      - type: Card
         title: Item Title
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -78,6 +66,18 @@ sections:
             size: medium
             variant: text
             color: primary
+      - type: Card
+        title: First Card Title
+        image:
+          type: Image
+          url: /images/1000019045.png
+          altText: First item image
+        text: |
+          welcome to " JCHNUSA-ORG"
+        actions:
+          - type: Button
+            label: Read the Docs
+            url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Second Card Title
         image:
