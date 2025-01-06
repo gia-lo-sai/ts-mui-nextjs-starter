@@ -34,7 +34,7 @@ sections:
         title: First Card Title
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/1000019045.png
           altText: First item image
         text: |+
           ![](/images/1000019045.png)
